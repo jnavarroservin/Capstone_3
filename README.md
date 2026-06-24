@@ -96,5 +96,6 @@ Video Link: [Insert Video Link Here]
 
 * `Navarro_WestRegion.pbix`
 * `README.md`
-* Source datasets
-* Presentation materials
+* `Capstone3_Sample_Sales.xlsx`
+* `book_list.txt`
+* `video/presentation contents`
