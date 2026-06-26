@@ -88,7 +88,7 @@ These insights can help support better decisions around inventory planning, mark
 
 ## Video Presentation
 
-Video Link: [Insert Video Link Here]
+Video Link: [https://www.loom.com/share/8e20fff27e2c4db3b9210cd55f1d12e4]
 
 ---
 
